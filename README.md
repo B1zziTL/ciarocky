@@ -1,4 +1,4 @@
 # ciarocky
 Program na generovanie čiarových kódov
 
-Pre správne fungovanie treba stiahnuť .txt kód!
+Pre správne fungovanie treba stiahnuť .txt súbor!
